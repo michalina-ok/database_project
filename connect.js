@@ -75,7 +75,17 @@ const activitiesToInsert = [
   {
     title: "What is a document database?",
     content: "Let's start by providing an introduction to document databases and understanding their key characteristics. Document databases are a type of NoSQL database that excel in handling unstructured or semi-structured data. Unlike traditional relational databases, document databases allow for flexible and dynamic data structures. In this activity, we'll delve into the world of document databases, and you'll have the opportunity to explore their fundamental features. We'll embark on a journey to create a simple content storage system, where you'll witness firsthand how document databases can efficiently manage and retrieve data. By the end of this activity, you'll have a solid understanding of the benefits and versatility of document databases for various data storage needs.",
-    topics: ["651c01a8c212deefd4017ec8"]
+    topics: ["651c01a8c212deefd4017ec9"]
+  },
+  {
+    title: "What is horizontal scaling?",
+    content: "In this activity, we'll explore the concept of horizontal scaling, which is a common method of scaling databases. Horizontal scaling is the process of adding more machines to a database to increase its capacity. It is a common method of scaling databases to handle increased traffic and data storage needs. We'll explore the benefits and drawbacks of horizontal scaling, and you'll have the opportunity to learn about the various methods of horizontal scaling. By the end of this activity, you'll have a solid understanding of horizontal scaling and its role in database scaling.",
+    topics: ["6522e2a3b739f1b5224da72a"]
+  },
+  {
+    title: "What is an entity relationship diagram?",
+    content: "In this activity, we'll explore the concept of entity relationship diagrams, which are a common method of visualizing database design. Entity relationship diagrams are a common tool used to visualize the relationships between entities in a database. We'll explore the benefits and drawbacks of entity relationship diagrams, and you'll have the opportunity to learn about the various methods of creating entity relationship diagrams. By the end of this activity, you'll have a solid understanding of entity relationship diagrams and their role in database design.",
+    topics: ["6522e2a3b739f1b5224da72b"]
   }
 ];
   
